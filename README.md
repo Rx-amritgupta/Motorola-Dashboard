@@ -1,4 +1,3 @@
-#MOTOROLA 
 # 📱 Mobile Sales Analysis Dashboard – Power BI
 
 ## 📊 Project Overview
